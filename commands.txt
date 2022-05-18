@@ -2,3 +2,5 @@ git init=> initialize git.
 git status=> list all untracked files
 git add -A=> add all untracked files to storage area
 git commit -m=>add changes to add local repository
+git remote add name path
+git push -u name branch
