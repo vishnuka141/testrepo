@@ -1,0 +1,4 @@
+git init=> initialize git.
+git status=> list all untracked files
+git add -A=> add all untracked files to storage area
+git commit -m=>
